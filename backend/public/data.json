@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "338",
+      "title": "test",
+      "content": "it is a test!",
+      "imageUrl": "3.PNG"
+    },
+    {
+      "id": "111",
+      "title": "Tim Berners-Lee",
+      "content": "Tim Berners is an English computer scientist who is best known as the Inventor of World Wide Web. he was born on 1995, in London , England. Lee's interest in technology and computers began at a young age. in 2009 He founded the World Wide Web foundation, which focuses on advancing The web as a public good and promoting digital equality.",
+      "imageUrl": "1.jpg"
+    },
+    {
+      "id": "489",
+      "title": "Larry Page and Sergey Brin",
+      "content": "Larry Page and Sergey Brin are the co-founders of the Google one of the World's largest and most influential technology companies. they met while Studying computer science at Stanford University in the late 1990s and Developed a close working relationship, In 2004, they established the Google foundation which later became Google.org, focusing on using Technology to address global challenges . In addition to their contributions To Google Page and Brin have made significant impacts on the technology And innovators.",
+      "imageUrl": "5.jpg"
+    },
+    {
+      "id": "685",
+      "title": "Ryan Dahl",
+      "content": "Ryan Dahl is a software engineer and the creator of the Node.js runtime, which has a had a significant impact on web development, he was born on 1981 in San Francisco, California, United States. Dahl initially worked on web development using languages like PHP and Ruby, but he became frustrated with the limitations of traditional web servers and the inefficiencies of handling concurrent connections, this led him to develop Node.js , a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+      "imageUrl": "8.jpg"
+    },
+    {
+      "id": "518",
+      "title": "Jordan Walke",
+      "content": "Jordan Walke is the founder of React JS ,he is an American software Engineer who works at Facebook, Walke developed React JS in 2011 while Working at Facebook, he has a strong background in web development and \r\nFront-end programming, React JS was created as a tool for building  Interactive user interfaces. the main idea behind React JS was to efficiently And effectively apply changes to the user interface , since the release of the Initial public version of React JS, it has gained significant popularity among Web developers and has become one of the most popular and widely used In the web development.",
+      "imageUrl": "7.jpg"
+    },
+    {
+      "id": "297",
+      "title": "Marc Andreessen",
+      "content": "Marc Andreessen is a cofounder and general partner at the venture capital Frim Andreessen Horowitz, he is an innovator and creator, one of the few to Pioneer a software category used by more than to a billion people and one Of the few to establish multiple billion-dollar companies. Marc co-created The highly influential Mosaic internet browser and co-founded Netscape, He also co-founded Loudcloud , he later served on the board of Hewlett-Packard from 2008 to 2018",
+      "imageUrl": "4.jpg"
+    },
+    {
+      "id": "97",
+      "title": "Brendan Eich",
+      "content": "Brendan Eich is a computer scientist and the creator of JavaScript programming language, in addition, Eich co-founded the Mozilla project which manages the open source development of the Firefox web browser.",
+      "imageUrl": "3.jpg"
+    }
+  ]
+}
